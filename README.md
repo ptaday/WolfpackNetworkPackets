@@ -1,4 +1,4 @@
-# WolfPack Network Protocol Implementation in C
+# WolfPack Network Protocol 
 
 ## Table of Contents
 
